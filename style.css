@@ -1,0 +1,36 @@
+h1 {
+  text-align: right;
+  color: aliceblue;
+  background-color: darkblue;
+  height: 150px;
+  margin: 0%;
+  padding-top: 3.75%;
+}
+body {
+  background-color: cornflowerblue;
+}
+.descriptor {
+  font-weight: bolder;
+}
+.mission {
+  width: 30%;
+}
+.photo {
+  display: wrap;
+  border: dashed;
+  border-width: medium;
+  border-color: darkblue;
+}
+.quote {
+  font-family: cursive;
+  text-align: center;
+}
+.aboutme {
+  box-shadow: 0 0 12px -2px turquoise;
+  margin-left: 125 px;
+  margin-right: 125 px;
+  margin: 0 auto;
+}
+.portfolio {
+  font-family: "Times New Roman", Times, serif;
+}
