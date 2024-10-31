@@ -40,3 +40,6 @@ body {
   width: 50%;
   font-size: larger;
 }
+.submitButton:hover {
+  background-color: crimson;
+}
