@@ -34,3 +34,9 @@ body {
 .portfolio {
   font-family: "Times New Roman", Times, serif;
 }
+.form {
+  padding-top: 10vh;
+  margin: 0 auto;
+  width: 50%;
+  font-size: larger;
+}
