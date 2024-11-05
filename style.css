@@ -6,6 +6,16 @@ h1 {
   margin: 0%;
   padding-top: 3.75%;
 }
+h1.a:hover {
+  color: rgb(59, 31, 111);
+  background-color: aqua;
+}
+h2 {
+  color: rgb(59, 31, 111);
+}
+h3 {
+  color: darkred;
+}
 body {
   background-color: cornflowerblue;
 }
@@ -31,6 +41,17 @@ body {
   margin-right: 125 px;
   margin: 0 auto;
 }
+.acePics {
+  display: flex;
+  align-content: center;
+  justify-content: space-evenly;
+}
+.dogpic {
+  float: right;
+  width: 40px;
+  height: 40px;
+  z-index: -1;
+}
 .portfolio {
   font-family: "Times New Roman", Times, serif;
 }
@@ -40,6 +61,7 @@ body {
   width: 50%;
   font-size: larger;
 }
-.submitButton:hover {
-  background-color: crimson;
+a:hover {
+  background-color: darkolivegreen;
+  color: yellowgreen;
 }
